@@ -37,6 +37,7 @@
 .button{
     background-color: #FF5959;
     margin: 10px;
+    color: white;
     margin-bottom: 40px;
     padding: 10px 7px;
     width: 150px;
@@ -105,4 +106,62 @@ border-radius: 8px;
         text-align: center;
         margin: 15px;
         border-radius: 8px;
+        color: white;
+    }
+    .d-right h1{
+        font-size: 24px;
+        text-transform: uppercase;
+    }
+    .e{
+      display: flex;
+      margin-top: 50px;
+    }
+    .e-left{
+        width: 50%;
+
+    }
+    .e-right{
+        width:40%; 
+        margin-left: 50px;
+    }
+    .e-right img{
+        width: 70%;
+    }
+    .e-left a{
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: brown;
+        text-decoration: none;
+        text-align: center;
+        margin: 15px;
+        border-radius: 8px;
+        color: white;
+    }
+    .e-left h1{
+        font-size: 24px;
+        text-transform: uppercase;
+    }
+    .f{
+        text-align: center;
+        margin-top: 50px;
+        font-size: 30px;
+        text-transform: capitalize;
+    }
+    footer{
+        height: 150px;
+        margin-top: 50px;
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+    footer h4{
+    
+    }
+    footer .foo-s{
+        padding: 50px;
+        border: 2px solid white);
+    }
+    footer .foo-s .foo-c{
+        color: tomato;
     }
