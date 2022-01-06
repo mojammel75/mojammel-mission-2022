@@ -4,7 +4,7 @@
 }
 .s-main{
     width: 90%;
-    border:5px solid red;
+   
     margin: 0 auto;
 }
 .a{
@@ -30,13 +30,13 @@
 .a-right-div .header-image{
  width:70%;
  float: right;
- border: 2px solid olive;
+
 
 }
 .half-width{
     width: 40%;
     margin-top: 50px;
-    border: 2px solid black;
+  
 }
 .button{
     background-color: #FF5959;
@@ -63,7 +63,7 @@
 }
 .same-width{
    width: 28%;
-   border: 1px solid green;
+  
 }
 .same-width img{
     width: 50px;
@@ -168,4 +168,7 @@ border-radius: 8px;
     }
     footer .foo-s .foo-c{
         color: tomato;
+    }
+    footer .foo-s h4{
+        margin-top: 20px;
     }
