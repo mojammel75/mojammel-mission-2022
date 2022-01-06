@@ -78,10 +78,15 @@
 .same-width .same-margin{
     margin: 40px 30px;
 }
-.c-b,.c-c{
+.c-b{
 background-color: #FFEEEE;
 border: 2px solid #FFEEEE;
-border-radius: 8px;
+border-radius: 10px;
+}
+.c-c{
+    background-color: #a78383;
+border: 2px solid #a78383;
+border-radius: 10px;
 }
 .c-a{
     background-color: #EDF5F6;
