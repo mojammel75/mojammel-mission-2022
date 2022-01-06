@@ -81,4 +81,28 @@ border-radius: 8px;
 .c-a{
     background-color: #EDF5F6;
     border: 2px solid #EDF5F6;
-    border-radius: 8px;
+    border-radius: 8px;}
+    .d{
+      display: flex;
+      margin-top: 50px;
+    }
+    .d-left{
+      width:40%;
+
+    }
+    .d-right{
+     width: 50%;
+    }
+    .d-left img{
+        width: 70%;
+    }
+    .d-right a{
+        width: 200px;
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: brown;
+        text-decoration: none;
+        text-align: center;
+        margin: 15px;
+        border-radius: 8px;
+    }
